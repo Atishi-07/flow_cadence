@@ -9,7 +9,7 @@ Getting Started
 just copy the code fron the repo and paste in the flow playground
 
 Executing program
-deploy the contract and start sending the details of the sport in the transaction part and then click on script part and click on the execute
+deploy the contract and start sending the details of the sport in the transaction part and then click on script part and click on the execute.
 
 Authors
 
